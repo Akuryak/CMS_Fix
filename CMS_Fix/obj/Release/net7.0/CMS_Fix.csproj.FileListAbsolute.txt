@@ -1,0 +1,15 @@
+C:\Users\Daunello\source\repos\CMS_Fix\CMS_Fix\bin\Release\net7.0\CMS_Fix.exe
+C:\Users\Daunello\source\repos\CMS_Fix\CMS_Fix\bin\Release\net7.0\CMS_Fix.deps.json
+C:\Users\Daunello\source\repos\CMS_Fix\CMS_Fix\bin\Release\net7.0\CMS_Fix.runtimeconfig.json
+C:\Users\Daunello\source\repos\CMS_Fix\CMS_Fix\bin\Release\net7.0\CMS_Fix.dll
+C:\Users\Daunello\source\repos\CMS_Fix\CMS_Fix\bin\Release\net7.0\CMS_Fix.pdb
+C:\Users\Daunello\source\repos\CMS_Fix\CMS_Fix\obj\Release\net7.0\CMS_Fix.csproj.AssemblyReference.cache
+C:\Users\Daunello\source\repos\CMS_Fix\CMS_Fix\obj\Release\net7.0\CMS_Fix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daunello\source\repos\CMS_Fix\CMS_Fix\obj\Release\net7.0\CMS_Fix.AssemblyInfoInputs.cache
+C:\Users\Daunello\source\repos\CMS_Fix\CMS_Fix\obj\Release\net7.0\CMS_Fix.AssemblyInfo.cs
+C:\Users\Daunello\source\repos\CMS_Fix\CMS_Fix\obj\Release\net7.0\CMS_Fix.csproj.CoreCompileInputs.cache
+C:\Users\Daunello\source\repos\CMS_Fix\CMS_Fix\obj\Release\net7.0\CMS_Fix.dll
+C:\Users\Daunello\source\repos\CMS_Fix\CMS_Fix\obj\Release\net7.0\refint\CMS_Fix.dll
+C:\Users\Daunello\source\repos\CMS_Fix\CMS_Fix\obj\Release\net7.0\CMS_Fix.pdb
+C:\Users\Daunello\source\repos\CMS_Fix\CMS_Fix\obj\Release\net7.0\CMS_Fix.genruntimeconfig.cache
+C:\Users\Daunello\source\repos\CMS_Fix\CMS_Fix\obj\Release\net7.0\ref\CMS_Fix.dll

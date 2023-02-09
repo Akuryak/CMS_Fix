@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>CMS_Fix</id>
+    <version>1.0.0</version>
+    <authors>CMS_Fix</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net7.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Daunello\source\repos\CMS_Fix\CMS_Fix\bin\Debug\net7.0\CMS_Fix.runtimeconfig.json" target="lib\net7.0\CMS_Fix.runtimeconfig.json" />
+    <file src="C:\Users\Daunello\source\repos\CMS_Fix\CMS_Fix\bin\Debug\net7.0\CMS_Fix.dll" target="lib\net7.0\CMS_Fix.dll" />
+  </files>
+</package>
